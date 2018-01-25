@@ -1,4 +1,4 @@
-<pre><?
+<?
 ####### This script grasps data from the open government data portal http://data.gv.at by accessing the provided CKAN 2.6.0 API (https://www.data.gv.at/katalog/api/)
 #### The inital use case was to gather data for metadata analysis but can be utilized for any other case dealing with machine-based matadata processing
 
